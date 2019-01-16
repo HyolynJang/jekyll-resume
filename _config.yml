@@ -4,7 +4,7 @@
 title: Jekyll Resume
 email: 1009037308@qq.com
 description: Jekyll Resume is a mega simple resume theme for Jekyll.
-baseurl: ""
+baseurl: "/jekyll-resume"
 url: "https://hyolynjang.github.io/jekyll-resume/"
 name: Hyolyn Jang
 job: Scholar
